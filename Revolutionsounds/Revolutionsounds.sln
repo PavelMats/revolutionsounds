@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Revolutionsounds.Web", "Revolutionsounds.Web\Revolutionsounds.Web.csproj", "{E2C81189-E44E-4710-B75E-CD3E89E10543}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Revolutionsounds.UnitTest", "Revolutionsounds.UnitTest\Revolutionsounds.UnitTest.csproj", "{347BEBFB-820A-448E-BDCF-8A60A7AE63F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Revolutionsounds.Entities", "Revolutionsounds.Entities\Revolutionsounds.Entities.csproj", "{8B77B980-5FE3-41B2-8A90-5440E1A0ED44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Revolutionsounds.Data", "Revolutionsounds.Data\Revolutionsounds.Data.csproj", "{07F64E77-03ED-4756-A6BA-FE6E1EC5B991}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2C81189-E44E-4710-B75E-CD3E89E10543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2C81189-E44E-4710-B75E-CD3E89E10543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2C81189-E44E-4710-B75E-CD3E89E10543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2C81189-E44E-4710-B75E-CD3E89E10543}.Release|Any CPU.Build.0 = Release|Any CPU
+		{347BEBFB-820A-448E-BDCF-8A60A7AE63F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{347BEBFB-820A-448E-BDCF-8A60A7AE63F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{347BEBFB-820A-448E-BDCF-8A60A7AE63F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{347BEBFB-820A-448E-BDCF-8A60A7AE63F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B77B980-5FE3-41B2-8A90-5440E1A0ED44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B77B980-5FE3-41B2-8A90-5440E1A0ED44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B77B980-5FE3-41B2-8A90-5440E1A0ED44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B77B980-5FE3-41B2-8A90-5440E1A0ED44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07F64E77-03ED-4756-A6BA-FE6E1EC5B991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07F64E77-03ED-4756-A6BA-FE6E1EC5B991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07F64E77-03ED-4756-A6BA-FE6E1EC5B991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07F64E77-03ED-4756-A6BA-FE6E1EC5B991}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
