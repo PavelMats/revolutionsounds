@@ -11,5 +11,7 @@ namespace Revolutionsounds.Entities.Data
         public decimal Latitude { get; set; }
 
         public decimal Longitude { get; set; }
+
+        public decimal Count { get; set; }
     }
 }
