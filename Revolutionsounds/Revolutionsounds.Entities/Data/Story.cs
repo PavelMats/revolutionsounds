@@ -6,12 +6,10 @@ namespace Revolutionsounds.Entities.Data
     {
         public string Name { get; set; }
 
-        public string Сontent { get; set; }
+        public string Content { get; set; }
 
         public decimal Latitude { get; set; }
 
         public decimal Longitude { get; set; }
-
-        public decimal Count { get; set; }
     }
 }
